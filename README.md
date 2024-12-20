@@ -20,7 +20,7 @@ This project aims to analyze their marketing data to identify areas for improvem
 - **Decreased Conversion Rates**: The conversion rate demonstrated a strong rebound in December, reaching 10.2%, despite a notable dip to 5.0% in October.
 - **Reduced Customer Engagement**: There is a decline in overall social media engagement, with views dropping throughout the year.
     While clicks and likes are low compared to views, the click-through rate stands at 15.37%, meaning that engaged users are still interacting effectively.
--**Customer Feedback Analysis** :Customer ratings have remained consistent, averaging around 3.7 throughout the year.
+- **Customer Feedback Analysis** :Customer ratings have remained consistent, averaging around 3.7 throughout the year.
     Although stable, the average rating is below the target of 4.0, suggesting a need for focused improvements in customer satisfaction, for products below 3,5.
 
 
