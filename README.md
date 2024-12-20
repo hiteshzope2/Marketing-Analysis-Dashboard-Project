@@ -119,7 +119,7 @@ FROM
 WHERE 
     row_num = 1;  -- Keeps only the first occurrence of each duplicate group identified in the subquery
 ```
-5. **Data Cleaning and Normalization for Engagement Data
+5. Data Cleaning and Normalization for Engagement Data
    ```sql
    -- Query to clean and normalize the engagement_data table
 
@@ -141,3 +141,5 @@ WHERE
     ContentType != 'Newsletter';  -- Filters out rows where ContentType is 'Newsletter' as these are not relevant for our analysis
     
     ```
+
+
