@@ -23,6 +23,14 @@ This project aims to analyze their marketing data to identify areas for improvem
 - **Customer Feedback Analysis** :Customer ratings have remained consistent, averaging around 3.7 throughout the year.
     Although stable, the average rating is below the target of 4.0, suggesting a need for focused improvements in customer satisfaction, for products below 3,5.
 
+![image](https://github.com/user-attachments/assets/0eb7fffb-85bb-415d-9b40-29051c8714fd)
+![image](https://github.com/user-attachments/assets/1102ac04-c96a-4a67-b458-bbc144328f91)
+![image](https://github.com/user-attachments/assets/4ddc8480-8149-4b6f-a92d-9f740b2d9a11)
+![image](https://github.com/user-attachments/assets/6dc21046-2d65-47e3-96cb-7882f010d2b0)
+
+
+
+
 
   
 
